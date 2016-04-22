@@ -17,10 +17,10 @@ public class DNASequencing {
         return 0;
     }
 
-	public int passReferenceGenome(int chromatidSequenceId, String[] chromatidSequence) {
+    public int passReferenceGenome(int chromatidSequenceId, String[] chromatidSequence) {
 
         return 0;
-	}
+    }
 
     String[] getAlignment(int N, double normA, double normS, String[] readName, String[] readSequence) {
 
