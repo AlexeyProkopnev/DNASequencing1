@@ -7,7 +7,7 @@ import java.io.*;
 
 public class DNASequencing {
 
-    public int initTest(int _testDifficulty) {
+    public int initTest(int testDifficulty) {
 
         return 0;
     }
